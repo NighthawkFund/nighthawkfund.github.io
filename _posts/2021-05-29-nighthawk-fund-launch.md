@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nighthwak Fund lLaunches
+title: Nighthwak Fund Launches
 date: 2021-05-29 19:40
 summary: Nighthawk Fund invests in Zcash
 categories: updates
